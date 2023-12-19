@@ -1,4 +1,4 @@
-package com.example;
+package com.example.main;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -11,8 +11,3 @@ public class ResTfulCrudApplication {
 	}
 
 }
-
-// Rest Controller
-// DAO
-// Service
-//Entity
